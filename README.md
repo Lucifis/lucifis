@@ -35,4 +35,4 @@ class Attributes:
 
 
 ```
-https://activity-graph.herokuapp.com/graph?username=lucifis&bg_color=1c1917&color=ffffff&line=9c0299&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph
+<a href="http://www.github.com/lucifis"><img src="https://activity-graph.herokuapp.com/graph?username=lucifis&bg_color=1c1917&color=ffffff&line=9c0299&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/></a>
